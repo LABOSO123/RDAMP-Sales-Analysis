@@ -1,2 +1,1 @@
-# RDAMP-Sales-Analysis
-RDMAP ANALYTICS 
+Initial files uploaded for RDAMP Task 001. Full documentation in progress.
